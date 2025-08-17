@@ -1,0 +1,11 @@
+{
+  "name": "UFC",
+  "symbol": "UFC",
+  "description": "Fungible token on Solana mainnet.",
+  "image": "https://REPLACE_ME/ufc-logo-512.png",
+  "extensions": {
+    "website": "https://REPLACE_ME",
+    "twitter": "https://REPLACE_ME",
+    "telegram": "https://REPLACE_ME"
+  }
+}
